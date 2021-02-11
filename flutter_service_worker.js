@@ -8,8 +8,8 @@ const RESOURCES = {
 "assets/assets/images/1.jpg": "555d9e07df126ce5fcd45ef2e135bfc8",
 "assets/assets/images/2.jpg": "83fde4cd656b83f995f59c319b1ae9af",
 "assets/assets/images/3.jpg": "ee43fae83d51430019b6998a4fb29098",
-"assets/assets/images/c1.jpg": "386b39678c29c9bbaa4bd78670edef7f",
-"assets/assets/images/c2.jpg": "9091d3befc02dbb25b772317f0eea815",
+"assets/assets/images/c1.jpg": "0d1ae08d5069c0749946ac5cf2b67879",
+"assets/assets/images/c2.jpg": "610ecc33b27ee544798d50b83904138a",
 "assets/assets/images/c3.jpg": "5c08033f2aaff7b2bc4cb7dc7a0b0b95",
 "assets/assets/images/c4.jpg": "bbaff1b17256023b490a0132cc0d3735",
 "assets/assets/images/c6.mp4": "3e4abc07096c9c8ef9fcd5820151d4a3",
@@ -22,9 +22,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fbe2b7d8c8aba9bebcee5aa15a8fd6e9",
-"/": "fbe2b7d8c8aba9bebcee5aa15a8fd6e9",
-"main.dart.js": "5c6de941f36e7906bf3c7384f9ddb240",
+"index.html": "9ef894c189cf059ab75d1545b31ee877",
+"/": "9ef894c189cf059ab75d1545b31ee877",
+"main.dart.js": "8dfd8eac34598b8cf28595f2815521fe",
 "manifest.json": "b4404a98b00e93bd74d7094efa201989",
 "version.json": "7c607879310c5343d40d18faadaeb722"
 };
